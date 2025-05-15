@@ -36,9 +36,10 @@ The dashboard provides business insights into total sales, discounts, customer b
 
 ---
 
-### 📷 Dashboard Snapshot
+Name: Tsabeeh Hamed 
+linkedin: https://www.linkedin.com/in/tsabeh-hamed-data-analyst 
+Email : tsabehamed@gmail.com
 
-![Alibaba Sales Dashboard](./Screenshots/alibaba.PNG)
 
 > *Dark-themed dashboard with slicers for category and city filtering.*
 
